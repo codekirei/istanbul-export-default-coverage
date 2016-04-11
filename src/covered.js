@@ -1,1 +1,2 @@
-export default () => 'bar'
+const bar = 'bar'
+export default bar
